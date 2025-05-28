@@ -18,3 +18,6 @@
 <p> <h1>  <b><u>  Areas of specializat1ion </u> </h1> </b>
 
 <p> <b> <u> <h1> Bridges hardware and software </b> </h1> </u> 
+<p> happy ending blabla 
+
+</htm>s
